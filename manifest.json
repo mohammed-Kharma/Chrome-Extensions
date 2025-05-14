@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Leads Tracker",
+    "version": "1.0",
+    "description": "Save your favorite links",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "icon.png"
+      }
+    },
+    "permissions": ["tabs", "storage"]
+  }
+  
